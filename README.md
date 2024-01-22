@@ -1,4 +1,4 @@
-![logo](https://github.com/theadityaroy/Aditya-Roy/blob/main/Minimalist%20LinkedIn%20Banner.png)
+![logo](https://github.com/theadityaroy/theadityaroy/blob/main/GitHubBanner.png)
 👨‍💻 Passionate coder on a continuous learning journey<br>🌱 Enthusiastic about exploring new technologies and methodologies<br>💡 Thrives on solving complex problems and building innovative solutions<br>🚀 Committed to staying at the forefront of emerging tech trends<br>🌐 Let's connect on LinkedIn - https://www.linkedin.com/in/theadityaroy/
 
 
