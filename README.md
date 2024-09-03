@@ -1,4 +1,4 @@
-![logo](https://github.com/theadityaroy/theadityaroy/blob/main/GitHubBanner.png)
+![logo](https://github.com/theadityaroy/theadityaroy/blob/main/github-banner.png)
 👨‍💻 Passionate coder on a continuous learning journey<br>🌱 Enthusiastic about exploring new technologies and methodologies<br>💡 Thrives on solving complex problems and building innovative solutions<br>🚀 Committed to staying at the forefront of emerging tech trends<br>🌐 Let's connect on LinkedIn - https://www.linkedin.com/in/workwithadityaroy/
 
 
